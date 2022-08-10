@@ -1,3 +1,10 @@
+# React App, rock paper scissors game - See Live @ https://effortless-paprenjak-56cb59.netlify.app/
+
+![rps-react-app](https://user-images.githubusercontent.com/68698872/183883158-daeb7b3d-1354-40d5-aa7b-cf022b1047cc.png)
+
+This JavaScript project was created with the feature-rich React library. The main goal was to create and style a wireframe to display the app, keep track of states with the React useState hook and creating components to implement the game logic, while separating the configuration settings from the main codebase, updating states and use conditional rendering accordinly, allowing the user to play against the computer. The UX has been improved by making the choosing options represented by icons, and the color palette to give a high contrast between the player's white cards and the dark blue background.The first to reach 10 points wins the game.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
